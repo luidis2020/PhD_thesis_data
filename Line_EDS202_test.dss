@@ -1,0 +1,401 @@
+New line.1-2 Bus1=1 Bus2=2 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.2-3 Bus1=2 Bus2=3 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.3-4 Bus1=3 Bus2=4 R1=0.065905 X1=0.14812 enabled=yes 
+
+New line.4-5 Bus1=4 Bus2=5 R1=0.03766 X1=0.08464 enabled=yes 
+
+New line.5-6 Bus1=5 Bus2=6 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.6-7 Bus1=6 Bus2=7 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.7-8 Bus1=7 Bus2=8 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.8-9 Bus1=8 Bus2=9 R1=0.016947 X1=0.038088 enabled=yes 
+
+New line.9-10 Bus1=9 Bus2=10 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.10-11 Bus1=10 Bus2=11 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.11-12 Bus1=11 Bus2=12 R1=0.05935 X1=0.04654 enabled=yes 
+
+New line.10-13 Bus1=10 Bus2=13 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.13-14 Bus1=13 Bus2=14 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.10-15 Bus1=10 Bus2=15 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.15-16 Bus1=15 Bus2=16 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.16-17 Bus1=16 Bus2=17 R1=0.09341 X1=0.0489 enabled=yes 
+
+New line.17-18 Bus1=17 Bus2=18 R1=0.074728 X1=0.03912 enabled=yes 
+
+New line.17-19 Bus1=17 Bus2=19 R1=0.18682 X1=0.0978 enabled=yes 
+
+New line.19-20 Bus1=19 Bus2=20 R1=0.074728 X1=0.03912 enabled=yes 
+
+New line.14-21 Bus1=14 Bus2=21 R1=0.03766 X1=0.08464 enabled=yes 
+
+New line.21-22 Bus1=21 Bus2=22 R1=0.041426 X1=0.093104 enabled=yes 
+
+New line.22-23 Bus1=22 Bus2=23 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.23-24 Bus1=23 Bus2=24 R1=0.00659 X1=0.014812 enabled=yes 
+
+New line.24-25 Bus1=24 Bus2=25 R1=0.00659 X1=0.014812 enabled=yes 
+
+New line.25-26 Bus1=25 Bus2=26 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.26-27 Bus1=26 Bus2=27 R1=0.024479 X1=0.055016 enabled=yes 
+
+New line.25-28 Bus1=25 Bus2=28 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.28-29 Bus1=28 Bus2=29 R1=0.065387 X1=0.03423 enabled=yes 
+
+New line.29-30 Bus1=29 Bus2=30 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.30-31 Bus1=30 Bus2=31 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.31-32 Bus1=31 Bus2=32 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.32-33 Bus1=32 Bus2=33 R1=0.059416 X1=0.02026 enabled=yes 
+
+New line.32-34 Bus1=32 Bus2=34 R1=0.089124 X1=0.03039 enabled=yes 
+
+New line.29-35 Bus1=29 Bus2=35 R1=0.09341 X1=0.0489 enabled=yes 
+
+New line.35-36 Bus1=35 Bus2=36 R1=0.0003766 X1=0.0008464 enabled=yes
+
+New line.36-37 Bus1=36 Bus2=37 R1=0.037364 X1=0.01956 enabled=yes 
+
+New line.35-38 Bus1=35 Bus2=38 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.38-39 Bus1=38 Bus2=39 R1=0.037364 X1=0.01956 enabled=yes 
+
+New line.27-40 Bus1=27 Bus2=40 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.40-41 Bus1=40 Bus2=41 R1=0.037135 X1=0.0126625 enabled=yes 
+
+New line.40-42 Bus1=40 Bus2=42 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.42-43 Bus1=42 Bus2=43 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.43-44 Bus1=43 Bus2=44 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.42-45 Bus1=42 Bus2=45 R1=0.059416 X1=0.02026 enabled=yes 
+
+New line.45-46 Bus1=45 Bus2=46 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.46-47 Bus1=46 Bus2=47 R1=0.037135 X1=0.0126625 enabled=yes 
+
+New line.45-48 Bus1=45 Bus2=48 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.48-49 Bus1=48 Bus2=49 R1=0.037135 X1=0.0126625 enabled=yes 
+
+New line.44-50 Bus1=44 Bus2=50 R1=0.014122 X1=0.03174 enabled=yes 
+
+New line.50-51 Bus1=50 Bus2=51 R1=0.013181 X1=0.029624 enabled=yes 
+
+New line.51-52 Bus1=51 Bus2=52 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.52-53 Bus1=52 Bus2=53 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.53-54 Bus1=53 Bus2=54 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.54-55 Bus1=54 Bus2=55 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.55-56 Bus1=55 Bus2=56 R1=0.07427 X1=0.025325 enabled=yes 
+
+New line.56-57 Bus1=56 Bus2=57 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.57-58 Bus1=57 Bus2=58 R1=0.103978 X1=0.035455 enabled=yes 
+
+New line.1-59 Bus1=1 Bus2=59 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.59-60 Bus1=59 Bus2=60 R1=0.01597 X1=0.04095 enabled=yes 
+
+New line.60-61 Bus1=60 Bus2=61 R1=0.099014 X1=0.25389 enabled=yes 
+
+New line.61-62 Bus1=61 Bus2=62 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.62-63 Bus1=62 Bus2=63 R1=0.041522 X1=0.10647 enabled=yes 
+
+New line.63-64 Bus1=63 Bus2=64 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.63-65 Bus1=63 Bus2=65 R1=0.019164 X1=0.04914 enabled=yes 
+
+New line.65-66 Bus1=65 Bus2=66 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.66-67 Bus1=66 Bus2=67 R1=0.01597 X1=0.04095 enabled=yes 
+
+New line.67-68 Bus1=67 Bus2=68 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.68-69 Bus1=68 Bus2=69 R1=0.133686 X1=0.045585 enabled=yes 
+
+New line.64-70 Bus1=64 Bus2=70 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.70-71 Bus1=70 Bus2=71 R1=0.111405 X1=0.0379875 enabled=yes 
+
+New line.70-72 Bus1=70 Bus2=72 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.72-73 Bus1=72 Bus2=73 R1=0.133686 X1=0.045585 enabled=yes 
+
+New line.73-74 Bus1=73 Bus2=74 R1=0.081697 X1=0.0278575 enabled=yes 
+
+New line.70-75 Bus1=70 Bus2=75 R1=0.020713 X1=0.046552 enabled=yes 
+
+New line.75-76 Bus1=75 Bus2=76 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.76-77 Bus1=76 Bus2=77 R1=0.163394 X1=0.055715 enabled=yes 
+
+New line.75-78 Bus1=75 Bus2=78 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.78-79 Bus1=78 Bus2=79 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.79-80 Bus1=79 Bus2=80 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.79-81 Bus1=79 Bus2=81 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.81-82 Bus1=81 Bus2=82 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.80-83 Bus1=80 Bus2=83 R1=0.126259 X1=0.0430525 enabled=yes 
+
+New line.82-84 Bus1=82 Bus2=84 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.84-85 Bus1=84 Bus2=85 R1=0.013181 X1=0.029624 enabled=yes 
+
+New line.84-86 Bus1=84 Bus2=86 R1=0.004707 X1=0.01058 enabled=yes 
+
+New line.86-87 Bus1=86 Bus2=87 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.87-88 Bus1=87 Bus2=88 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.79-89 Bus1=79 Bus2=89 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.89-90 Bus1=89 Bus2=90 R1=0.178248 X1=0.06078 enabled=yes 
+
+New line.90-91 Bus1=90 Bus2=91 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.91-92 Bus1=91 Bus2=92 R1=0.111405 X1=0.037987 enabled=yes 
+
+New line.90-93 Bus1=90 Bus2=93 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.93-94 Bus1=93 Bus2=94 R1=0.056046 X1=0.027924 enabled=yes 
+
+New line.94-95 Bus1=94 Bus2=95 R1=0.028023 X1=0.013962 enabled=yes 
+
+New line.95-96 Bus1=95 Bus2=96 R1=0.028023 X1=0.013962 enabled=yes 
+
+New line.96-97 Bus1=96 Bus2=97 R1=0.028023 X1=0.013962 enabled=yes 
+
+New line.97-98 Bus1=97 Bus2=98 R1=0.051375 X1=0.025597 enabled=yes 
+
+New line.88-99 Bus1=88 Bus2=99 R1=0.020713 X1=0.046552 enabled=yes 
+
+New line.99-100 Bus1=99 Bus2=100 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.100-101 Bus1=100 Bus2=101 R1=0.014122 X1=0.03174 enabled=yes 
+
+New line.100-102 Bus1=100 Bus2=102 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.102-103 Bus1=102 Bus2=103 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.103-104 Bus1=103 Bus2=104 R1=0.07427 X1=0.025325 enabled=yes 
+
+New line.102-105 Bus1=102 Bus2=105 R1=0.004707 X1=0.01058 enabled=yes 
+
+New line.105-106 Bus1=105 Bus2=106 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.102-107 Bus1=102 Bus2=107 R1=0.00659 X1=0.014812 enabled=yes 
+
+New line.107-108 Bus1=107 Bus2=108 R1=0.010356 X1=0.023276 enabled=yes 
+
+New line.106-109 Bus1=106 Bus2=109 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.109-110 Bus1=109 Bus2=110 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.110-111 Bus1=110 Bus2=111 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.111-112 Bus1=111 Bus2=112 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.112-113 Bus1=112 Bus2=113 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.113-114 Bus1=113 Bus2=114 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.113-115 Bus1=113 Bus2=115 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.115-116 Bus1=115 Bus2=116 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.116-117 Bus1=116 Bus2=117 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.114-118 Bus1=114 Bus2=118 R1=0.051989 X1=0.017727 enabled=yes 
+
+New line.113-119 Bus1=113 Bus2=119 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.119-120 Bus1=119 Bus2=120 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.120-121 Bus1=120 Bus2=121 R1=0.00659 X1=0.014812 enabled=yes 
+
+New line.121-122 Bus1=121 Bus2=122 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.122-123 Bus1=122 Bus2=123 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.122-124 Bus1=122 Bus2=124 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.124-125 Bus1=124 Bus2=125 R1=0.015064 X1=0.033856 enabled=yes 
+
+New line.123-126 Bus1=123 Bus2=126 R1=0.065387 X1=0.03003 enabled=yes 
+
+New line.125-127 Bus1=125 Bus2=127 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.127-128 Bus1=127 Bus2=128 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.127-129 Bus1=127 Bus2=129 R1=0.015064 X1=0.033856 enabled=yes 
+
+New line.129-130 Bus1=129 Bus2=130 R1=0.013181 X1=0.029624 enabled=yes 
+
+New line.130-131 Bus1=130 Bus2=131 R1=0.013181 X1=0.029624 enabled=yes 
+
+New line.131-132 Bus1=131 Bus2=132 R1=0.016947 X1=0.038088 enabled=yes 
+
+New line.1-133 Bus1=1 Bus2=133 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.133-134 Bus1=133 Bus2=134 R1=0.069671 X1=0.156584 enabled=yes 
+
+New line.134-135 Bus1=134 Bus2=135 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.135-136 Bus1=135 Bus2=136 R1=0.015064 X1=0.033856 enabled=yes 
+
+New line.136-137 Bus1=136 Bus2=137 R1=0.060256 X1=0.135424 enabled=yes 
+
+New line.137-138 Bus1=137 Bus2=138 R1=0.326259  X1=0.0430525 enabled=yes 
+
+New line.137-139 Bus1=137 Bus2=139 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.139-140 Bus1=139 Bus2=140 R1=0.020713 X1=0.046552 enabled=yes 
+
+New line.140-141 Bus1=140 Bus2=141 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.140-142 Bus1=140 Bus2=142 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.142-143 Bus1=142 Bus2=143 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.141-144 Bus1=141 Bus2=144 R1=0.028023 X1=0.01467 enabled=yes 
+
+New line.137-145 Bus1=137 Bus2=145 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.145-146 Bus1=145 Bus2=146 R1=0.074728 X1=0.03912 enabled=yes 
+
+New line.146-147 Bus1=146 Bus2=147 R1=0.056046 X1=0.02934 enabled=yes 
+
+New line.147-148 Bus1=147 Bus2=148 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.148-149 Bus1=148 Bus2=149 R1=0.037364 X1=0.01956 enabled=yes 
+
+New line.146-150 Bus1=146 Bus2=150 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.150-151 Bus1=150 Bus2=151 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.143-152 Bus1=143 Bus2=152 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.152-153 Bus1=152 Bus2=153 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.152-154 Bus1=152 Bus2=154 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.154-155 Bus1=154 Bus2=155 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.155-156 Bus1=155 Bus2=156 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.153-157 Bus1=153 Bus2=157 R1=0.037364 X1=0.01956 enabled=yes 
+
+New line.156-158 Bus1=156 Bus2=158 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.158-159 Bus1=158 Bus2=159 R1=0.028023 X1=0.01467 enabled=yes 
+
+New line.159-160 Bus1=159 Bus2=160 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.158-161 Bus1=158 Bus2=161 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.161-162 Bus1=161 Bus2=162 R1=0.011298 X1=0.025392 enabled=yes 
+
+New line.162-163 Bus1=162 Bus2=163 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.163-164 Bus1=163 Bus2=164 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.164-165 Bus1=164 Bus2=165 R1=0.01883 X1=0.04232 enabled=yes 
+
+New line.165-166 Bus1=165 Bus2=166 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.165-167 Bus1=165 Bus2=167 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.167-168 Bus1=167 Bus2=168 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.168-169 Bus1=168 Bus2=169 R1=0.007532 X1=0.016928 enabled=yes 
+
+New line.166-170 Bus1=166 Bus2=170 R1=0.065387 X1=0.03423 enabled=yes 
+
+New line.169-171 Bus1=169 Bus2=171 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.171-172 Bus1=171 Bus2=172 R1=0.07122 X1=0.055848 enabled=yes 
+
+New line.171-173 Bus1=171 Bus2=173 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.173-174 Bus1=173 Bus2=174 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.174-175 Bus1=174 Bus2=175 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.175-176 Bus1=175 Bus2=176 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.176-177 Bus1=176 Bus2=177 R1=0.074728 X1=0.03912 enabled=yes 
+
+New line.175-178 Bus1=175 Bus2=178 R1=0.003766 X1=0.008464 enabled=yes 
+
+New line.178-179 Bus1=178 Bus2=179 R1=0.003766 X1=0.008464 enabled=yes 
+
+New line.179-180 Bus1=179 Bus2=180 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.180-181 Bus1=180 Bus2=181 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.181-182 Bus1=181 Bus2=182 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.181-183 Bus1=181 Bus2=183 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.182-184 Bus1=182 Bus2=184 R1=0.0607165 X1=0.031785 enabled=yes 
+
+New line.181-185 Bus1=181 Bus2=185 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.185-186 Bus1=185 Bus2=186 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.186-187 Bus1=186 Bus2=187 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.187-188 Bus1=187 Bus2=188 R1=0.005649 X1=0.012696 enabled=yes 
+
+New line.188-189 Bus1=188 Bus2=189 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.188-190 Bus1=188 Bus2=190 R1=0.0003766 X1=0.0008464 enabled=yes 
+
+New line.190-191 Bus1=190 Bus2=191 R1=0.0385775 X1=0.030251 enabled=yes 
+
+New line.189-192 Bus1=189 Bus2=192 R1=0.0504475 X1=0.039559 enabled=yes 
+
+New line.188-193 Bus1=188 Bus2=193 R1=0.022596 X1=0.050784 enabled=yes 
+
+New line.193-194 Bus1=193 Bus2=194 R1=0.065387 X1=0.03423 enabled=yes 
+
+New line.193-195 Bus1=193 Bus2=195 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.195-196 Bus1=195 Bus2=196 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.196-197 Bus1=196 Bus2=197 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.193-198 Bus1=193 Bus2=198 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.198-199 Bus1=198 Bus2=199 R1=0.009415 X1=0.02116 enabled=yes 
+
+New line.197-200 Bus1=197 Bus2=200 R1=0.046705 X1=0.02445 enabled=yes 
+
+New line.200-201 Bus1=200 Bus2=201 R1=0.112092 X1=0.05868 enabled=yes 
+
+New line.200-202 Bus1=200 Bus2=202 R1=0.09341 X1=0.0489 enabled=yes 

@@ -1,0 +1,404 @@
+New Load.1 Bus1=1 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.2 Bus1=2 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.3 Bus1=3 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.4 Bus1=4 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.5 Bus1=5 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.6 Bus1=6 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.7 Bus1=7 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.8 Bus1=8 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.9 Bus1=9 kW=95.2 kvar=58.99 conn=Wye Model=1 kv=13.8
+
+New Load.10 Bus1=10 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.11 Bus1=11 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.12 Bus1=12 kW=510.0 kvar=316.02 conn=Wye Model=1 kv=13.8
+
+New Load.13 Bus1=13 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.14 Bus1=14 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.15 Bus1=15 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.16 Bus1=16 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.17 Bus1=17 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.18 Bus1=18 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.19 Bus1=19 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.20 Bus1=20 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.21 Bus1=21 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.22 Bus1=22 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.23 Bus1=23 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.24 Bus1=24 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.25 Bus1=25 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.26 Bus1=26 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.27 Bus1=27 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.28 Bus1=28 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.29 Bus1=29 kW=51.0 kvar=31.6 conn=Wye Model=1 kv=13.8
+
+New Load.30 Bus1=30 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.31 Bus1=31 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.32 Bus1=32 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.33 Bus1=33 kW=350.63 kvar=217.26 conn=Wye Model=1 kv=13.8
+
+New Load.34 Bus1=34 kW=350.63 kvar=217.26 conn=Wye Model=1 kv=13.8
+
+New Load.35 Bus1=35 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.36 Bus1=36 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.37 Bus1=37 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.38 Bus1=38 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.39 Bus1=39 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.40 Bus1=40 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.41 Bus1=41 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.42 Bus1=42 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.43 Bus1=43 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.44 Bus1=44 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.45 Bus1=45 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.46 Bus1=46 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.47 Bus1=47 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.48 Bus1=48 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.49 Bus1=49 kW=605.63 kvar=375.27 conn=Wye Model=1 kv=13.8
+
+New Load.50 Bus1=50 kW=573.75 kvar=355.52 conn=Wye Model=1 kv=13.8
+
+New Load.51 Bus1=51 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.52 Bus1=52 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.53 Bus1=53 kW=765.0 kvar=474.03 conn=Wye Model=1 kv=13.8
+
+New Load.54 Bus1=54 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.55 Bus1=55 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.56 Bus1=56 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.57 Bus1=57 kW=318.75 kvar=197.51 conn=Wye Model=1 kv=13.8
+
+New Load.58 Bus1=58 kW=318.75 kvar=197.51 conn=Wye Model=1 kv=13.8
+
+New Load.59 Bus1=59 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.60 Bus1=60 kW=25.5 kvar=15.8 conn=Wye Model=1 kv=13.8
+
+New Load.61 Bus1=61 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.62 Bus1=62 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.63 Bus1=63 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.64 Bus1=64 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.65 Bus1=65 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.66 Bus1=66 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.67 Bus1=67 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.68 Bus1=68 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.69 Bus1=69 kW=102.0 kvar=63.2 conn=Wye Model=1 kv=13.8
+
+New Load.70 Bus1=70 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.71 Bus1=71 kW=89.25 kvar=55.3 conn=Wye Model=1 kv=13.8
+
+New Load.72 Bus1=72 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.73 Bus1=73 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.74 Bus1=74 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.75 Bus1=75 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.76 Bus1=76 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.77 Bus1=77 kW=510.0 kvar=316.02 conn=Wye Model=1 kv=13.8
+
+New Load.78 Bus1=78 kW=595.0 kvar=368.69 conn=Wye Model=1 kv=13.8
+
+New Load.79 Bus1=79 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.80 Bus1=80 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.81 Bus1=81 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.82 Bus1=82 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.83 Bus1=83 kW=350.63 kvar=217.26 conn=Wye Model=1 kv=13.8
+
+New Load.84 Bus1=84 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.85 Bus1=85 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.86 Bus1=86 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.87 Bus1=87 kW=446.25 kvar=276.52 conn=Wye Model=1 kv=13.8
+
+New Load.88 Bus1=88 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.89 Bus1=89 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.90 Bus1=90 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.91 Bus1=91 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.92 Bus1=92 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.93 Bus1=93 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.94 Bus1=94 kW=216.75 kvar=134.31 conn=Wye Model=1 kv=13.8
+
+New Load.95 Bus1=95 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.96 Bus1=96 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.97 Bus1=97 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.98 Bus1=98 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.99 Bus1=99 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.100 Bus1=100 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.101 Bus1=101 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.102 Bus1=102 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.103 Bus1=103 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.104 Bus1=104 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.105 Bus1=105 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.106 Bus1=106 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.107 Bus1=107 kW=106.25 kvar=65.84 conn=Wye Model=1 kv=13.8
+
+New Load.108 Bus1=108 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.109 Bus1=109 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.110 Bus1=110 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.111 Bus1=111 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.112 Bus1=112 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.113 Bus1=113 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.114 Bus1=114 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.115 Bus1=115 kW=318.75 kvar=197.51 conn=Wye Model=1 kv=13.8
+
+New Load.116 Bus1=116 kW=350.63 kvar=217.26 conn=Wye Model=1 kv=13.8
+
+New Load.117 Bus1=117 kW=446.25 kvar=276.52 conn=Wye Model=1 kv=13.8
+
+New Load.118 Bus1=118 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.119 Bus1=119 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.120 Bus1=120 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.121 Bus1=121 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.122 Bus1=122 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.123 Bus1=123 kW=76.5 kvar=47.4 conn=Wye Model=1 kv=13.8
+
+New Load.124 Bus1=124 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.125 Bus1=125 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.126 Bus1=126 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.127 Bus1=127 kW=233.75 kvar=144.84 conn=Wye Model=1 kv=13.8
+
+New Load.128 Bus1=128 kW=573.75 kvar=355.52 conn=Wye Model=1 kv=13.8
+
+New Load.129 Bus1=129 kW=276.25 kvar=171.18 conn=Wye Model=1 kv=13.8
+
+New Load.130 Bus1=130 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.131 Bus1=131 kW=393.13 kvar=243.6 conn=Wye Model=1 kv=13.8
+
+New Load.132 Bus1=132 kW=510.0 kvar=316.02 conn=Wye Model=1 kv=13.8
+
+New Load.133 Bus1=133 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.134 Bus1=134 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.135 Bus1=135 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.136 Bus1=136 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.137 Bus1=137 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.138 Bus1=138 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.139 Bus1=139 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.140 Bus1=140 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.141 Bus1=141 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.142 Bus1=142 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.143 Bus1=143 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.144 Bus1=144 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.145 Bus1=145 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.146 Bus1=146 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.147 Bus1=147 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.148 Bus1=148 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.149 Bus1=149 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.150 Bus1=150 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.151 Bus1=151 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.152 Bus1=152 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.153 Bus1=153 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.154 Bus1=154 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.155 Bus1=155 kW=212.5 kvar=131.68 conn=Wye Model=1 kv=13.8
+
+New Load.156 Bus1=156 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.157 Bus1=157 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.158 Bus1=158 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.159 Bus1=159 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.160 Bus1=160 kW=38.25 kvar=23.7 conn=Wye Model=1 kv=13.8
+
+New Load.161 Bus1=161 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.162 Bus1=162 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.163 Bus1=163 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.164 Bus1=164 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.165 Bus1=165 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.166 Bus1=166 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.167 Bus1=167 kW=446.25 kvar=276.52 conn=Wye Model=1 kv=13.8
+
+New Load.168 Bus1=168 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.169 Bus1=169 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.170 Bus1=170 kW=605.63 kvar=375.27 conn=Wye Model=1 kv=13.8
+
+New Load.171 Bus1=171 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.172 Bus1=172 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.173 Bus1=173 kW=63.75 kvar=39.5 conn=Wye Model=1 kv=13.8
+
+New Load.174 Bus1=174 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.175 Bus1=175 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.176 Bus1=176 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.177 Bus1=177 kW=208.25 kvar=129.04 conn=Wye Model=1 kv=13.8
+
+New Load.178 Bus1=178 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.179 Bus1=179 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.180 Bus1=180 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.181 Bus1=181 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.182 Bus1=182 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.183 Bus1=183 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.184 Bus1=184 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.185 Bus1=185 kW=850.0 kvar=526.7 conn=Wye Model=1 kv=13.8
+
+New Load.186 Bus1=186 kW=127.5 kvar=79.01 conn=Wye Model=1 kv=13.8
+
+New Load.187 Bus1=187 kW=510.0 kvar=316.02 conn=Wye Model=1 kv=13.8
+
+New Load.188 Bus1=188 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.189 Bus1=189 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.190 Bus1=190 kW=0.0 kvar=0.0 conn=Wye Model=1 kv=13.8
+
+New Load.191 Bus1=191 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.192 Bus1=192 kW=448.38 kvar=277.83 conn=Wye Model=1 kv=13.8
+
+New Load.193 Bus1=193 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.194 Bus1=194 kW=510.0 kvar=316.02 conn=Wye Model=1 kv=13.8
+
+New Load.195 Bus1=195 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.196 Bus1=196 kW=255.0 kvar=158.01 conn=Wye Model=1 kv=13.8
+
+New Load.197 Bus1=197 kW=191.25 kvar=118.51 conn=Wye Model=1 kv=13.8
+
+New Load.198 Bus1=198 kW=446.25 kvar=276.52 conn=Wye Model=1 kv=13.8
+
+New Load.199 Bus1=199 kW=133.88 kvar=82.96 conn=Wye Model=1 kv=13.8
+
+New Load.200 Bus1=200 kW=95.63 kvar=59.25 conn=Wye Model=1 kv=13.8
+
+New Load.201 Bus1=201 kW=382.5 kvar=237.02 conn=Wye Model=1 kv=13.8
+
+New Load.202 Bus1=202 kW=1030.2 kvar=638.36 conn=Wye Model=1 kv=13.8
+
